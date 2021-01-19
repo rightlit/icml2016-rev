@@ -37,6 +37,17 @@ a flower with short and wide petals that is light purple. |  ![](results/flowers
 this flower has small pink petals with a yellow center. |  ![](results/flowers/img_8.png)
 this flower has large rounded pink petals with curved edges and purple veins. |  ![](results/flowers/img_9.png)
 
+ caption             |  image example
+:-------------------------:|:-------------------------:
+the medium sized bird has a dark grey color, a black downward curved beak, and long wings. |  ![](results/cub/img_1.png)
+the bird is dark grey brown with a thick curved bill and a flat shaped tail. |  ![](results/cub/img_2.png)
+bird has brown body feathers, white breast feathers and black beak |  ![](results/cub/img_3.png)
+this bird has a dark brown overall body color, with a small white patch around the base of the bill. |  ![](results/cub/img_4.png)
+the bird has very long and large brown wings, as well as a black body and a long black beak. |  ![](results/cub/img_5.png)
+it is a type of albatross with black wings, tail, back and beak, and has a white ring at the base of its beak. |  ![](results/cub/img_6.png)
+this bird has brown plumage and a white ring at the base of its long, curved brown beak. |  ![](results/cub/img_7.png)
+the entire body is dark brown, as is the bill, with a white band encircling where the bill meets the head. |  ![](results/cub/img_8.png)
+this bird is gray in color, with a large curved beak. |  ![](results/cub/img_9.png)
 
 
 ####Pretrained models:
