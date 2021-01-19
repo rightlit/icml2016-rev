@@ -24,9 +24,12 @@ You will need to install [Torch](http://torch.ch/docs/getting-started.html), CuD
 * For COCO (more general images): `./scripts/demo_coco.sh`. 
 * An html file will be generated with the results:
 
-<img src="images/coco_samples.jpg" width="900px" height="450px"/>
-<img src="images/flowers_samples.jpg" width="900px" height="450px"/>
-<img src="images/cub_samples.jpg" width="900px" height="450px"/>
+
+ caption             |  image example
+:-------------------------:|:-------------------------:
+the medium sized bird has a dark grey color, a black downward curved beak, and long wings. |  ![](results/cub/img_1.png)
+
+
 
 ####Pretrained models:
 
