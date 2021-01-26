@@ -57,7 +57,7 @@ this bird is gray in color, with a large curved beak. |  ![](results/cub/img_9.p
 * [Flowers GAN-INT-CLS](https://drive.google.com/open?id=0B0ywwgffWnLLV0U4MGwzZ2JKT3c)
 * [COCO GAN-CLS](https://drive.google.com/open?id=0B0ywwgffWnLLT0JqcEFrOG1iVVk)
 
-** How to train a text encoder from scratch: **
+**How to train a text encoder from scratch:**
 
 * You may want to do this if you have your own new dataset of text descriptions.
 * For flowers and birds: follow the instructions [here](https://github.com/reedscot/cvpr2016).
