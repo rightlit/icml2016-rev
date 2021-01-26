@@ -1,9 +1,9 @@
-###<a href="http://arxiv.org/abs/1605.05396">Generative Adversarial Text-to-Image Synthesis</a>
-Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee
+###Generative Adversarial Text-to-Image Synthesis</a>
+This is icml2016 revised version for Google Colab.
 
-This is the code for our ICML 2016 paper on text-to-image synthesis using conditional GANs. You can use it to train and sample from  text-to-image models. The code is adapted from the excellent [dcgan.torch](https://github.com/soumith/dcgan.torch).
+Refer to [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml2016) for original source version.
 
-<img src="images/dcgan_network.jpg" width="900px" height="220px"/>
+Refre to [troubleshooting](https://github.com/rightlit/icml2016-rev/issues) while executing in original source code. 
 
 ####Setup Instructions
 
