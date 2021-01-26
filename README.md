@@ -62,15 +62,3 @@ this bird is gray in color, with a large curved beak. |  ![](results/cub/img_9.p
 * For flowers and birds: follow the instructions [here](https://github.com/reedscot/cvpr2016).
 * For MS-COCO: `./scripts/train_coco_txt.sh`.
 
-####Citation
-
-If you find this useful, please cite our work as follows:
-
-```
-@inproceedings{reed2016generative,
-  title={Generative Adversarial Text-to-Image Synthesis},
-  author={Scott Reed and Zeynep Akata and Xinchen Yan and Lajanugen Logeswaran and Bernt Schiele and Honglak Lee},
-  booktitle={Proceedings of The 33rd International Conference on Machine Learning},
-  year={2016}
-}
-```
