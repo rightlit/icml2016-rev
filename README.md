@@ -29,7 +29,7 @@ You will need to install [Torch](http://torch.ch/docs/getting-started.html), CuD
 :-------------------------:|:-------------------------:
 the petals of the flower are pink in color and have a yellow center. |  ![](results/flowers/img_1.png)
 this flower is pink and white in color, with petals that are multi colored. |  ![](results/flowers/img_2.png)
-the geographical shapes of the bright purple petals set off the orange stamen and filament and the cross shaped stigma is beautiful. |  ![](results/flowers/img_3.png)
+the geographical shapes of the bright purple petals set off the orange stamen and ... |  ![](results/flowers/img_3.png)
 the purple petals have shades of white with white anther and filament |  ![](results/flowers/img_4.png)
 this flower has large pink petals and a white stigma in the center |  ![](results/flowers/img_5.png)
 this flower has petals that are pink and has a yellow stamen |  ![](results/flowers/img_6.png)
