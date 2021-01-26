@@ -4,7 +4,7 @@ This is icml2016 revised version for Google Colab.
 
 Refer to [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml2016) for original source version.
 
-Refer to [issues](https://github.com/rightlit/icml2016-rev/issues) while running with original source code. 
+Refer to troubleshooting [issues](https://github.com/rightlit/icml2016-rev/issues) while running with original source code. 
 
 **Setup Instruction**
 
