@@ -1,4 +1,4 @@
-** Generative Adversarial Text-to-Image Synthesis</a> **
+**Generative Adversarial Text-to-Image Synthesis</a**
 
 This is icml2016 revised version for Google Colab.
 
@@ -6,11 +6,11 @@ Refer to [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml
 
 Refre to [troubleshooting](https://github.com/rightlit/icml2016-rev/issues) while executing in original source code. 
 
-** Setup Instructions **
+**Setup Instruction**
 
 You will need to install [Torch](http://torch.ch/docs/getting-started.html), CuDNN, and the [display](https://github.com/szym/display) package.
 
-** How to train a text to image model: **
+**How to train a text to image model:**
 
 1. Download the [birds](https://drive.google.com/file/d/0B0ywwgffWnLLLUc2WHYzM0Q2eWc/view?usp=sharing) and [flowers](https://drive.google.com/file/d/0B0ywwgffWnLLMl9uOU91MV80cVU/view?usp=sharing) and [COCO](https://drive.google.com/open?id=0B0ywwgffWnLLamltREhDRjlaT3M) caption data in Torch format.
 2. Download the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and [flowers](http://www.robots.ox.ac.uk/~vgg/data/flowers/102) and [COCO](http://mscoco.org/dataset/#download) image data.
@@ -18,7 +18,7 @@ You will need to install [Torch](http://torch.ch/docs/getting-started.html), CuD
 4. Modify the `CONFIG` file to point to your data and text encoder paths.
 5. Run one of the training scripts, e.g. `./scripts/train_cub.sh`
 
-** How to generate samples: **
+**How to generate samples:**
 
 * For flowers: `./scripts/demo_flowers.sh`. Add text descriptions to `scripts/flowers_queries.txt`.
 * For birds: `./scripts/demo_cub.sh`.
@@ -51,7 +51,7 @@ the entire body is dark brown, as is the bill, with a white band encircling wher
 this bird is gray in color, with a large curved beak. |  ![](results/cub/img_9.png)
 
 
-** Pretrained models: **
+**Pretrained models:**
 
 * [CUB GAN-INT-CLS](https://drive.google.com/open?id=0B0ywwgffWnLLSW84ZXRjdXhObzQ)
 * [Flowers GAN-INT-CLS](https://drive.google.com/open?id=0B0ywwgffWnLLV0U4MGwzZ2JKT3c)
