@@ -1,4 +1,4 @@
-# Generative Adversarial Text-to-Image Synthesis
+# icml2016 revision for Colab
 
 This is icml2016 revised version for Google Colab.
 
