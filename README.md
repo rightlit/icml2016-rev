@@ -5,9 +5,14 @@ This is icml2016 revised version for Google Colab.
 Refer to [https://github.com/reedscot/icml2016](https://github.com/reedscot/icml2016) for original source version.
 
 
-**Setup Instruction**
+**Dependencies**
 
-You will need to install [Torch](http://torch.ch/docs/getting-started.html), CuDNN, and the [display](https://github.com/szym/display) package.
+python == 3.6
+
+Pytorch 1.7.0+cu101
+
+Torch7 (http://torch.ch/docs/getting-started.html#_)
+
 
 **How to train a text to image model:**
 
