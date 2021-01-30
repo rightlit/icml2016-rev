@@ -28,8 +28,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 
 * For flowers: `./scripts/demo_flowers.sh`. Add text descriptions to `scripts/flowers_queries.txt`.
 * For birds: `./scripts/demo_cub.sh`.
-* For COCO (more general images): `./scripts/demo_coco.sh`. 
-* An html file will be generated with the results:
+
 
 
  caption             |  image example
