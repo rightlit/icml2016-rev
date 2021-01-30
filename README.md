@@ -18,14 +18,6 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 - `torchvision == 0.4.0` 
 
 
-**How to train a text to image model:**
-
-1. Download the [birds](https://drive.google.com/file/d/0B0ywwgffWnLLLUc2WHYzM0Q2eWc/view?usp=sharing) and [flowers](https://drive.google.com/file/d/0B0ywwgffWnLLMl9uOU91MV80cVU/view?usp=sharing) and [COCO](https://drive.google.com/open?id=0B0ywwgffWnLLamltREhDRjlaT3M) caption data in Torch format.
-2. Download the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and [flowers](http://www.robots.ox.ac.uk/~vgg/data/flowers/102) and [COCO](http://mscoco.org/dataset/#download) image data.
-3. Download the text encoders for [birds](https://drive.google.com/open?id=0B0ywwgffWnLLU0F3UHA3NzFTNEE) and [flowers](https://drive.google.com/open?id=0B0ywwgffWnLLZUt0UmQ1LU1oWlU) and [COCO](https://drive.google.com/open?id=0B0ywwgffWnLLeVNmVVV6OHBDUFE) descriptions.
-4. Modify the `CONFIG` file to point to your data and text encoder paths.
-5. Run one of the training scripts, e.g. `./scripts/train_cub.sh`
-
 **How to generate samples:**
 
 * For flowers: `./scripts/demo_flowers.sh`. Add text descriptions to `scripts/flowers_queries.txt`.
@@ -58,16 +50,4 @@ this bird has brown plumage and a white ring at the base of its long, curved bro
 the entire body is dark brown, as is the bill, with a white band encircling where the bill meets the head. |  ![](results/cub/img_8.png)
 this bird is gray in color, with a large curved beak. |  ![](results/cub/img_9.png)
 
-
-**Pretrained models:**
-
-* [CUB GAN-INT-CLS](https://drive.google.com/open?id=0B0ywwgffWnLLSW84ZXRjdXhObzQ)
-* [Flowers GAN-INT-CLS](https://drive.google.com/open?id=0B0ywwgffWnLLV0U4MGwzZ2JKT3c)
-* [COCO GAN-CLS](https://drive.google.com/open?id=0B0ywwgffWnLLT0JqcEFrOG1iVVk)
-
-**How to train a text encoder from scratch:**
-
-* You may want to do this if you have your own new dataset of text descriptions.
-* For flowers and birds: follow the instructions [here](https://github.com/reedscot/cvpr2016).
-* For MS-COCO: `./scripts/train_coco_txt.sh`.
 
