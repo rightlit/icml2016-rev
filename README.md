@@ -1,4 +1,4 @@
-# icml2016 revision for Colab
+# icml2016 revision and demos
 
 This is icml2016 revised version for Google Colab.
 
